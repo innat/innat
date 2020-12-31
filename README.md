@@ -5,10 +5,12 @@
 
 **Informative Question-Answer in SO**
 
- - [Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
- - [Q]: [Scene Text Image Super-Resolution for OCR](https://stackoverflow.com/questions/64808986/scene-text-image-super-resolution-for-ocr)
- - [Q]: [Stratified K-Fold For Multi-Class Object Detection?](https://stackoverflow.com/questions/64164932/stratified-k-fold-for-multi-class-object-detection)
- - [Q]: [Multioutput-Multiclass Classification in Custom Scratch Training in TF.Keras](https://stackoverflow.com/questions/64155286/multioutput-multiclass-classification-in-custom-scratch-training-in-tf-keras)
+ - Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
+ - Q]: [Scene Text Image Super-Resolution for OCR](https://stackoverflow.com/questions/64808986/scene-text-image-super-resolution-for-ocr)
+ - Q]: [Stratified K-Fold For Multi-Class Object Detection?](https://stackoverflow.com/questions/64164932/stratified-k-fold-for-multi-class-object-detection)
+ - Q]: [Multioutput-Multiclass Classification in Custom Scratch Training in TF.Keras](https://stackoverflow.com/questions/64155286/multioutput-multiclass-classification-in-custom-scratch-training-in-tf-keras)
+ 
+ ---
  
  - [A]: [How to do Transfer Learning without ImageNet weights?](https://stackoverflow.com/questions/65136547/how-to-do-transfer-learning-without-imagenet-weights/65137708#65137708)
  - [A]: [Deblur image with text to be recognized by OCR](https://stackoverflow.com/questions/48674106/deblur-image-with-text-to-be-recognized-by-ocr/64843044#64843044)
