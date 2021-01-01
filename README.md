@@ -3,7 +3,7 @@
 <p align="center">
   
 <a href="https://stackoverflow.com/users/9215780/m-innat?tab=profile">
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=9215780" alt="HTML tutorial" style="width:"150";height:"210";">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=9215780" alt="HTML tutorial" width="120" height="180"/>
 </a>
  
 </p>
@@ -17,10 +17,10 @@
 
 **Informative Question-Answer in SO**
 
- - Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
- - Q]: [Scene Text Image Super-Resolution for OCR](https://stackoverflow.com/questions/64808986/scene-text-image-super-resolution-for-ocr)
- - Q]: [Stratified K-Fold For Multi-Class Object Detection?](https://stackoverflow.com/questions/64164932/stratified-k-fold-for-multi-class-object-detection)
- - Q]: [Multioutput-Multiclass Classification in Custom Scratch Training in TF.Keras](https://stackoverflow.com/questions/64155286/multioutput-multiclass-classification-in-custom-scratch-training-in-tf-keras)
+ - [Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
+ - [Q]: [Scene Text Image Super-Resolution for OCR](https://stackoverflow.com/questions/64808986/scene-text-image-super-resolution-for-ocr)
+ - [Q]: [Stratified K-Fold For Multi-Class Object Detection?](https://stackoverflow.com/questions/64164932/stratified-k-fold-for-multi-class-object-detection)
+ - [Q]: [Multioutput-Multiclass Classification in Custom Scratch Training in TF.Keras](https://stackoverflow.com/questions/64155286/multioutput-multiclass-classification-in-custom-scratch-training-in-tf-keras)
  
  ---
  
