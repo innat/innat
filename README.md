@@ -17,9 +17,6 @@
 **Informative Question-Answer in SO**
 
  - [Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
-
- ---
- 
  - [A]: [How to do Transfer Learning without ImageNet weights?](https://stackoverflow.com/questions/65136547/how-to-do-transfer-learning-without-imagenet-weights/65137708#65137708)
  - [A]: [Deblur image with text to be recognized by OCR](https://stackoverflow.com/questions/48674106/deblur-image-with-text-to-be-recognized-by-ocr/64843044#64843044)
  
