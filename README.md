@@ -1,18 +1,15 @@
 ### Hello!
 
-<p align="center">
-  
-<a href="https://stackoverflow.com/users/9215780/m-innat?tab=profile">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=9215780" alt="HTML tutorial" width="120" height="180"/>
-</a>
- 
+
+<a href="https://stackoverflow.com/users/9215780/m-innat"><img src="https://stackoverflow.com/users/flair/9215780.png?theme=clean" width="208" height="58" alt="profile for M.Innat at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for M.Innat at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<p align="left">
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> 
 </p>
 
-<p align="center">
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</p>
+
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=innat" alt="innat" /> </p>
 
