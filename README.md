@@ -15,9 +15,12 @@
 
 **Informative Question-Answer in SO**
 
+ - [Q]: [Gradient Accumulation with Custom model.fit in TF.Keras?](https://stackoverflow.com/q/66472201/9215780)
  - [Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
- - [A]: [How to do Transfer Learning without ImageNet weights?](https://stackoverflow.com/questions/65136547/how-to-do-transfer-learning-without-imagenet-weights/65137708#65137708)
- - [A]: [Deblur image with text to be recognized by OCR](https://stackoverflow.com/questions/48674106/deblur-image-with-text-to-be-recognized-by-ocr/64843044#64843044)
+ - [A]: [What is tape-based autograd in Pytorch?](https://stackoverflow.com/a/67591848/9215780)
+ - [A]: [TF.Keras model.predict is slower than straight Numpy?](https://stackoverflow.com/a/67238117/9215780)
+ - [A]: [Tensorflow 2 - tf.slice and its NumPy slice syntax incompatible behavior](https://stackoverflow.com/a/67387982/9215780)
+
 
 **Kaggle** : [M.Innat](https://www.kaggle.com/ipythonx)
  
