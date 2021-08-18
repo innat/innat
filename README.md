@@ -22,12 +22,14 @@
  - [A]: [Tensorflow 2 - tf.slice and its NumPy slice syntax incompatible behavior](https://stackoverflow.com/a/67387982/9215780)
 
 
-**Kaggle** : [M.Innat](https://www.kaggle.com/ipythonx)
- 
+On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx)), we've shared a few machine learning-based projects. Please feel free to explore. Namely,
 
- 
+- [[TF.Keras]: RANZCR: Multi-Attention EfficientNet](https://www.kaggle.com/ipythonx/tf-keras-ranzcr-multi-attention-efficientnet)
+- [[TF]: Segmentation Modeling into Classifier Model](https://www.kaggle.com/ipythonx/tf-segmentation-modeling-into-classifier-model/notebook)
+- [[TF]: 3D & 2D Model for Brain Tumor Classification](https://www.kaggle.com/ipythonx/tf-3d-2d-model-for-brain-tumor-classification/notebook)
+- [[Keras]:Global Wheat Detection with Mask-RCNN](https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn)
 
-
+We would appreciate a citation if these were useful for your projects and study.
 
 
 
