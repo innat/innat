@@ -13,23 +13,25 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=innat" alt="innat" /> </p>
 
-**Informative Question-Answer in SO**
+On **StackOverflow**.
 
- - [Q]: [Gradient Accumulation with Custom model.fit in TF.Keras?](https://stackoverflow.com/q/66472201/9215780)
- - [Q]: [How to Create Class Label for Mosaic Augmentation in Image Classification?](https://stackoverflow.com/questions/65181294/how-to-create-class-label-for-mosaic-augmentation-in-image-classification)
+ - [A]: [Label Smoothing in PyTorch](https://stackoverflow.com/a/66773267/9215780)
+ - [A]: [Tensorflow 2 - tf.slice VS its NumPy slice](https://stackoverflow.com/a/67387982/9215780)
  - [A]: [What is tape-based autograd in Pytorch?](https://stackoverflow.com/a/67591848/9215780)
  - [A]: [TF.Keras model.predict is slower than straight Numpy?](https://stackoverflow.com/a/67238117/9215780)
- - [A]: [Tensorflow 2 - tf.slice and its NumPy slice syntax incompatible behavior](https://stackoverflow.com/a/67387982/9215780)
+ - [A]: [TensorFlow equivalent of PyTorch's transforms.Normalize()](https://stackoverflow.com/a/67484253/9215780)
+ - [A]: [TensorFlow 2 Quantization Aware Training (QAT) with tf.GradientTape](https://stackoverflow.com/a/66881336/9215780)
 
 
-On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx)), we've shared a few machine learning-based projects. Please feel free to explore. Namely,
+On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx)). We would appreciate a citation if the following code were useful for your research and study. [Explore](https://www.kaggle.com/ipythonx/code?userId=1984321&sortBy=voteCount&tab=profile).
 
-- [[TF.Keras]: RANZCR: Multi-Attention EfficientNet](https://www.kaggle.com/ipythonx/tf-keras-ranzcr-multi-attention-efficientnet)
-- [[TF]: Segmentation Modeling into Classifier Model](https://www.kaggle.com/ipythonx/tf-segmentation-modeling-into-classifier-model/notebook)
 - [[TF]: 3D & 2D Model for Brain Tumor Classification](https://www.kaggle.com/ipythonx/tf-3d-2d-model-for-brain-tumor-classification/notebook)
-- [[Keras]:Global Wheat Detection with Mask-RCNN](https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn)
+- [[TF.Keras]: RANZCR: Multi-Attention EfficientNet](https://www.kaggle.com/ipythonx/tf-keras-ranzcr-multi-attention-efficientnet)
+- [[TF.Keras]: Segmentation Modeling into Classifier Model](https://www.kaggle.com/ipythonx/tf-segmentation-modeling-into-classifier-model/notebook)
+- [[Keras]: Global Wheat Detection with Mask-RCNN](https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn)
+- [[Keras]: Bengali Numeral Classification In Capsule Network](https://www.kaggle.com/ipythonx/bengali-numeral-classification-in-capsule-network)
 
-We would appreciate a citation if these were useful for your projects and study.
+
 
 
 
