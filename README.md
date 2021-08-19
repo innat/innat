@@ -16,7 +16,7 @@
 On **StackOverflow**.
 
  - [A]: [Label Smoothing in PyTorch](https://stackoverflow.com/a/66773267/9215780)
- - [A]: [Tensorflow 2 - tf.slice VS its NumPy slice](https://stackoverflow.com/a/67387982/9215780)
+ - [A]: [Tensorflow 2 - tf.slice VS np.slice](https://stackoverflow.com/a/67387982/9215780)
  - [A]: [What is tape-based autograd in Pytorch?](https://stackoverflow.com/a/67591848/9215780)
  - [A]: [TF.Keras model.predict is slower than straight Numpy?](https://stackoverflow.com/a/67238117/9215780)
  - [A]: [TensorFlow equivalent of PyTorch's transforms.Normalize()](https://stackoverflow.com/a/67484253/9215780)
