@@ -9,9 +9,9 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> 
 </p>
 
-
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=innat" alt="innat" /> </p>
+
+---
 
 On **StackOverflow**.
 
@@ -19,7 +19,6 @@ On **StackOverflow**.
  - [A]: [Tensorflow 2 - tf.slice VS np.slice](https://stackoverflow.com/a/67387982/9215780)
  - [A]: [What is tape-based autograd in Pytorch?](https://stackoverflow.com/a/67591848/9215780)
  - [A]: [TF.Keras model.predict is slower than straight Numpy?](https://stackoverflow.com/a/67238117/9215780)
- - [A]: [TensorFlow equivalent of PyTorch's transforms.Normalize()](https://stackoverflow.com/a/67484253/9215780)
  - [A]: [TensorFlow 2 Quantization Aware Training (QAT) with tf.GradientTape](https://stackoverflow.com/a/66881336/9215780)
 
 
@@ -30,9 +29,3 @@ On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx)). We would appreciate 
 - [[TF.Keras]: Segmentation Modeling into Classifier Model](https://www.kaggle.com/ipythonx/tf-segmentation-modeling-into-classifier-model/notebook)
 - [[Keras]: Global Wheat Detection with Mask-RCNN](https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn)
 - [[Keras]: Bengali Numeral Classification In Capsule Network](https://www.kaggle.com/ipythonx/bengali-numeral-classification-in-capsule-network)
-
-
-
-
-
-
