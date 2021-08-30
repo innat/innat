@@ -22,7 +22,7 @@ On **StackOverflow**.
  - [A]: [TensorFlow 2 Quantization Aware Training (QAT) with tf.GradientTape](https://stackoverflow.com/a/66881336/9215780)
 
 
-On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx)). We would appreciate a citation if the following code were useful for your research and study. [Explore](https://www.kaggle.com/ipythonx/code?userId=1984321&sortBy=voteCount&tab=profile).
+On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx/code?userId=1984321&sortBy=voteCount&tab=profile)). 
 
 - [[TF]: 3D & 2D Model for Brain Tumor Classification](https://www.kaggle.com/ipythonx/tf-3d-2d-model-for-brain-tumor-classification/notebook)
 - [[TF.Keras]: RANZCR: Multi-Attention EfficientNet](https://www.kaggle.com/ipythonx/tf-keras-ranzcr-multi-attention-efficientnet)
