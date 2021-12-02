@@ -21,6 +21,10 @@ On **StackOverflow**.
  - [A]: [TF.Keras model.predict is slower than straight Numpy?](https://stackoverflow.com/a/67238117/9215780)
  - [A]: [TensorFlow 2 Quantization Aware Training (QAT) with tf.GradientTape](https://stackoverflow.com/a/66881336/9215780)
 
+On **Medium**
+
+- [TDS: Model Sub-Classing and Custom Training Loop from Scratch in TensorFlow 2](https://towardsdatascience.com/model-sub-classing-and-custom-training-loop-from-scratch-in-tensorflow-2-cc1d4f10fb4e)
+- [TDS: Multi-Class Image Classification With Transfer Learning In PySpark](https://towardsdatascience.com/transfer-learning-with-pyspark-729d49604d45)
 
 On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx/code?userId=1984321&sortBy=voteCount&tab=profile)). 
 
@@ -28,4 +32,4 @@ On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx/code?userId=1984321&sor
 - [[TF.Keras]: RANZCR: Multi-Attention EfficientNet](https://www.kaggle.com/ipythonx/tf-keras-ranzcr-multi-attention-efficientnet)
 - [[TF.Keras]: Segmentation Modeling into Classifier Model](https://www.kaggle.com/ipythonx/tf-segmentation-modeling-into-classifier-model/notebook)
 - [[Keras]: Global Wheat Detection with Mask-RCNN](https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn)
-- [[Keras]: Bengali Numeral Classification In Capsule Network](https://www.kaggle.com/ipythonx/bengali-numeral-classification-in-capsule-network)
+- [[TF.Keras]: Learning to Resize Images for ViT Model](https://www.kaggle.com/ipythonx/tf-keras-learning-to-resize-images-for-vit-model)
