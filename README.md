@@ -40,6 +40,4 @@ On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx/code?userId=1984321&sor
 
 On **Quora** ([M.Innat](https://www.quora.com/profile/Mohammed-Innat/)).
 - [Python better than R?](https://www.quora.com/Is-Python-better-than-R/answer/Mohammed-Innat)
-- [Tree and Graph Data Structure.](https://www.quora.com/What-is-the-difference-between-a-tree-and-a-graph-1/answer/Mohammed-Innat)
-- [Web scraping tools in Python.](https://www.quora.com/Which-is-the-best-library-module-to-use-for-web-scraping-in-Python/answer/Mohammed-Innat)
 - [Why many programming languages?](https://www.quora.com/Why-are-there-so-many-programming-languages/answer/Mohammed-Innat)
