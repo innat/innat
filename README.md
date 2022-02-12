@@ -13,26 +13,3 @@
 </a>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=innat" alt="innat" /> </p>
-
----
-
-On **StackOverflow**.
-
- - [A]: [Label Smoothing in PyTorch](https://stackoverflow.com/a/66773267/9215780)
- - [A]: [Tensorflow 2 - tf.slice VS np.slice](https://stackoverflow.com/a/67387982/9215780)
- - [A]: [Tape-based autograd in Pytorch?](https://stackoverflow.com/a/67591848/9215780)
-
-On **Medium**
-
-- [TDS: Model Sub-Classing and Custom Training Loop from Scratch in TensorFlow 2](https://towardsdatascience.com/model-sub-classing-and-custom-training-loop-from-scratch-in-tensorflow-2-cc1d4f10fb4e)
-- [TDS: Multi-Class Image Classification With Transfer Learning In PySpark](https://towardsdatascience.com/transfer-learning-with-pyspark-729d49604d45)
-
-On **Kaggle** ([M.Innat](https://www.kaggle.com/ipythonx/code?userId=1984321&sortBy=voteCount&tab=profile)). 
-
-- [[TF]: 3D & 2D Model for Brain Tumor Classification](https://www.kaggle.com/ipythonx/tf-3d-2d-model-for-brain-tumor-classification/notebook)
-- [[Keras]: Global Wheat Detection with Mask-RCNN](https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn)
-
-
-On **Quora** ([M.Innat](https://www.quora.com/profile/Mohammed-Innat/)).
-- [Python better than R?](https://www.quora.com/Is-Python-better-than-R/answer/Mohammed-Innat)
-- [Why many programming languages?](https://www.quora.com/Why-are-there-so-many-programming-languages/answer/Mohammed-Innat)
