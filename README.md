@@ -12,4 +12,4 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
 </a>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=innat" alt="innat" /> </p>
+[![](https://img.shields.io/badge/M.Innat-%40Kaggle-blue)](https://www.kaggle.com/ipythonx) ![](https://komarev.com/ghpvc/?username=innat)
