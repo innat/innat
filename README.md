@@ -13,11 +13,3 @@
 </a>
 
 [![](https://img.shields.io/badge/M.Innat-%40Kaggle-blue)](https://www.kaggle.com/ipythonx) ![](https://komarev.com/ghpvc/?username=innat)
-
----
-
-**Highlight**
-
-- [RANZCR: Multi-Attention EfficientNet TPU](https://www.kaggle.com/code/ipythonx/keras-ranzcr-multi-attention-efficientnet-tpu)
-- [Hybrid EfficientNet Swin-Transformer : GradCAM](https://www.kaggle.com/code/ipythonx/tf-hybrid-efficientnet-swin-transformer-gradcam)
-- [3D & 2D Model for Brain Tumor Classification](https://www.kaggle.com/code/ipythonx/tf-3d-2d-model-for-brain-tumor-classification)
